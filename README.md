@@ -1,42 +1,41 @@
+   # Victoria
 
+   *Keep calm and carry on*
+    ![](IMG_0166.JPG)
 
-    # H1 Victoria
-
-    *Keep calm and carry on*
+   ## Living outside of my comfort zone
     
-
-    A (professional) photo of yourself (you can save the file in the repository next to the README file)
-
-    "Me, in one sentence" (as a smaller header)
-
-    A table with the following structure:
-
-    Birthday: dd/mm
-    Favorite color: ?
-    Favorite food: ?
+   | Birthday      | Favorite color | Favorite food |
+   | ------------- |:--------------:| -------------:|
+   | 08/11         | purple         | veggies       |
+   
+  
     Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-    Hobbies (smaller header)
+   ### Hobbies 
+   * gardening
+   * painting
+   * studying on EDX
+     * circular economy
+     * smart grids
+    
+   ###You can always count on me when you need moral support 
 
-    This should contain a bullet list of your hobbies
-    At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+    I will help my teammates learn by teaching.
+    I will contribute by maintaining a good team spirit.
+    
+   #### A funny story 
+   
+   When I finished school I was not sure what to do with my life. 
+   I was inclined to study IT at a technical institute, 
+   but my teacher persuaded me to go to shipping university.
+   I also tried to get into art school but failed the exam.
+   10 years later I am living in Antwerp, making a career switch.
+   I am studying web development full time at BeCode, 
+   as well as painting part-time at the Royal Academy of Fine Arts.
+   
+   ##### TL;DR It's never too late to start over 
 
-    You can always count on me when... (smaller header)
+   Searching for my purpose
 
-    Tell your teammates which positive contribution to the group you will make.
-    This could be technical, making people feel comfortable, being an organiser...
-
-    A funny story (smaller header)
-
-    Tell a short funny story about your life.
-
-    TL;DR (even smaller header, under funny story)
-
-    Summarise your funny story in one short sentence.
-
-    ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-    Organise yourself so it is easy to know who you should link to.
-
-    The links should have the following structure:
-
-    << previous || YOUR NAME || next >>
+   [<< previous][previous]:https://github.com/Tessakam/markdown-challenge || VICTORIA || [next >>][next]:https://github.com/whitneyz/markdown-challenge
