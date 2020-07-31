@@ -5,13 +5,10 @@
 
    ## Living outside of my comfort zone
     
-   | Birthday      | Favorite color | Favorite food |
-   | ------------- |:--------------:| -------------:|
-   | 08/11         | purple         | veggies       |
+   | Birthday      | Favorite color | Favorite food | Pinneapple on pizza | 
+   | ------------- |:--------------:| -------------:| --------------------|
+   | 08/11         | purple         | veggies       | No                  |
    
-  
-    Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
-
    ### Hobbies 
    * gardening
    * painting
@@ -34,7 +31,8 @@
    I am studying web development full time at BeCode, 
    as well as painting part-time at the Royal Academy of Fine Arts.
    
-   ##### TL;DR It's never too late to start over 
+   ##### TL;DR 
+   It's never too late to start over 
 
    Searching for my purpose
 
